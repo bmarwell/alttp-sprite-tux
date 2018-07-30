@@ -4,7 +4,9 @@ Tux (the Linux penguin / mascot) as a playable Sprite for the SNES Game: The Leg
 ## Preview
 This is a very early stage of the Tux Penguin Sprite for A Link To The Past.
 
-![tux fileselect preview](https://raw.githubusercontent.com/bmhm/alttp-sprite-tux/master/assets/tux-fileselect.png)
+![tux fileselect preview](https://raw.githubusercontent.com/bmhm/alttp-sprite-tux/master/assets/tux-fileselect.png) ![dashing_preview](https://raw.githubusercontent.com/bmhm/alttp-sprite-tux/master/assets/dash-charge_2x_cropped.gif)
+
+![tux_falldown_preview](https://raw.githubusercontent.com/bmhm/alttp-sprite-tux/master/assets/fall-down_2x_full.gif)
 
 ## Downloads
 
