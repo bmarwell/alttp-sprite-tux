@@ -10,16 +10,16 @@ I haven't made any art for gloves and/or palette changes yet.
 ## Preview
 This is a very early stage of the Tux Penguin Sprite for A Link To The Past.
 
-File select:
+File select:\
 ![tux fileselect preview](https://raw.githubusercontent.com/bmhm/alttp-sprite-tux/master/assets/tux-fileselect.png) 
 
-Falling down:
+Falling down:\
 ![tux_falldown_preview](https://raw.githubusercontent.com/bmhm/alttp-sprite-tux/master/assets/fall-down_2x_full.gif)
 
-Dashing:
+Dashing:\
 ![dashing_preview](https://raw.githubusercontent.com/bmhm/alttp-sprite-tux/master/assets/dash-charge_2x_cropped.gif)
 
-Bunny will be the Logo of OpenBSD, which is Puffy, the pufferfish.
+Bunny will be the Logo of OpenBSD, which is Puffy, the pufferfish.\
 ![bunny_preview](https://raw.githubusercontent.com/bmhm/alttp-sprite-tux/master/assets/bunny-walk-2x-cropped.gif)
 
 
